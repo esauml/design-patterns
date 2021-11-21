@@ -1,0 +1,22 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mvc": "node src/mvc/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esauml/design-patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esauml/design-patterns/issues"
+  },
+  "homepage": "https://github.com/esauml/design-patterns#readme"
+}
